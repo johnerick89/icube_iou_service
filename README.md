@@ -1,4 +1,4 @@
-# bookstore
+# IOU
 IOU service for setting up users, ious and calculating what each user owes the other user
 
 ## Environment:
